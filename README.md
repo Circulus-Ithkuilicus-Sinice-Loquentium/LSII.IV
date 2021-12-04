@@ -1,13 +1,14 @@
 # LSII.IV
 Literae Sinice Interpretatae Ithkuilis IV 
+
 汉释Ithkuil IV文档
 
-翻译成员：
+Interpretes 翻译成员：
 
 - 天邪弱 *Lucifer Caelius Delicatus* (@ryanlo713)
 - 待补……
 
-原文参考
+Referentia 原文参考
 
 - Ithkuil III
 
