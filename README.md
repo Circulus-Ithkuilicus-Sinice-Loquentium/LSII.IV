@@ -10,13 +10,7 @@ Interpretes 翻译成员：
 
 Referentia 原文参考
 
-- Ithkuil III
-
-  - http://ithkuil.net/
-
-- Ithkuil IV
-
-  - https://ithkuil.place/4/archive/
+- https://ithkuil.place/4/archive/
 
 ------
 
